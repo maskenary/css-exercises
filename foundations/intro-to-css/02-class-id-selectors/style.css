@@ -1,0 +1,14 @@
+.class1 {
+    font-family: Verdana, Tahoma, sans-serif;
+    background-color: lightpink;
+}
+.cooler {
+    font-size: 100;
+    font-weight: bold;
+}
+#id1 {
+    color:blue
+}
+#id2 {
+    background-color: blue;
+}
